@@ -1,0 +1,12 @@
+{
+  "name": "example-react-native",
+  "displayName": "example-react-native",
+  "expo": {
+    "name": "example-react-native",
+    "slug": "example-react-native",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
