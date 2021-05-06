@@ -21,7 +21,9 @@
     "react-native-web": "~0.13.12"
   },
   "devDependencies": {
-    "@babel/core": "^7.9.0"
+    "@babel/core": "^7.9.0",
+    "babel-plugin-una-language": "^1.0.1",
+    "una-language": "^0.3.2"
   },
   "private": true
 }

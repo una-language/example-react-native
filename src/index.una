@@ -1,0 +1,4 @@
+=-> './App' App
+=-> 'expo' (: registerRootComponent)
+
+registerRootComponent App
